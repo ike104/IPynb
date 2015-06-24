@@ -1,0 +1,1 @@
+ipython notebook --no-browser --port=8890 --matplotlib inline 
